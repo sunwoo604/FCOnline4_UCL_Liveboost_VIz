@@ -1,0 +1,249 @@
+player,team
+Darwin Nunez,Liverpool
+Diogo Jota,Liverpool
+Virgil Van Diek,Liverpool
+H. Elliot,Liverpool
+Andrew Robertson,Liverpool
+Alisson,Liverpool
+Joe Gomez,Liverpool
+James Milner,Liverpool
+Trent,Liverpool
+Fabinho,Liverpool
+Henderson,Liverpool
+Salah,Liverpool
+Firmino,Liverpool
+Joel Matip,Liverpool
+Vinicious Jr.,Real Madrid
+Modric,Real Madrid
+Kroos,Real Madrid
+Ruidiger,Real Madrid
+Benzema,Real Madrid
+Carvajal,Real Madrid
+Militao,Real Madrid
+Nacho,Real Madrid
+Camavinga,Real Madrid
+Rodrygo,Real Madrid
+Valverde,Real Madrid
+Alaba,Real Madrid
+Courtois,Real Madrid
+Bellingham,Dourtmund
+Julian Brant,Dourtmund
+Rafael Guerreiro,Dourtmund
+Schlottebeck,Dourtmund
+Kareen Adeyemi,Dourtmund
+Marco Reus,Dourtmund
+Gregor Kobel,Dourtmund
+G. Reyna,Dourtmund
+Emre Can,Dourtmund
+Antony Modeste,Dourtmund
+Donyell Malen,Dourtmund
+Jamie Bynoe-Gittens,Dourtmund
+Julian Ryerson,Dourtmund
+Sule,Dourtmund
+Wolf,Dourtmund
+Ozcan,Dourtmund
+Haller,Dourtmund
+Reece James,Chelsea
+Chillwell,Chelsea
+Enzo,Chelsea
+Koulibaly,Chelsea
+Kovacic,Chelsea
+Havertz,Chelsea
+Sterling,Chelsea
+Kepa,Chelsea
+Fofana,Chelsea
+Cucurella,Chelsea
+Pulisic,Chelsea
+Ziyech,Chelsea
+Felix,Chelsea
+Loftus-Cheek,Chelsea
+Thiago Silva,Chelsea
+Mason Mount,Chelsea
+Andre Silva,Leipzig
+Szoboszlai,Leipzig
+Blaswich,Leipzig
+David Raum,Leipzig
+Willi Orban,Leipzig
+Timo Werner,Leipzig
+Emil Forsberg,Leipzig
+Kevin Kampl,Leipzig
+Benajmin Henrichs,Leipzig
+Dani Olmo,Leipzig
+Lucas Klostermann,Leipzig
+Conrad Laimer,Leipzig
+Yusuf Poulsen,Leipzig
+Schlager,Leipzig
+Halstenberg,Leipzig
+Gvardiol,Leipzig
+Haaland,Man_City
+Marhez,Man_City
+Ruben Dias,Man_City
+De Bruyne,Man_City
+Gundogan,Man_City
+Rodri,Man_City
+Akanji,Man_City
+Bernardo Silva,Man_City
+Stones,Man_City
+Ake,Man_City
+Ederson,Man_City
+Kyle Walker,Man_City
+Julian Alvarez,Man_City
+Phil Foden,Man_City
+Kylian Mbappe,PSG
+Sergio Ramos,PSG
+Hakimi,PSG
+Nunu Mendes,PSG
+Vitinha,PSG
+Donnarumma,PSG
+Danilo Pereira,PSG
+Kimpembe,PSG
+Zaire-Emery,PSG
+Neymar,PSG
+Lionel Messi,PSG
+Verratti,PSG
+Soler,PSG
+Marquinhos,PSG
+Fabian Ruiz,PSG
+Kimmich,Bayern
+De Ligt,Bayern
+Upamecano,Bayern
+Goretzka,Bayern
+Choupo-Moting,Bayern
+Coman,Bayern
+Musiala,Bayern
+Stanisic,Bayern
+Thomas Muller,Bayern
+Serge Gnabry,Bayern
+Alphonso Davis,Bayern
+Sommer,Bayern
+Pavard,Bayern
+Sane,Bayern
+Cancelo,Bayern
+Leao,AC Milan
+Theo,AC Milan
+Giroud,AC Milan
+Kalulu,AC Milan
+Tonali,AC Milan
+Tartarusanu,AC Milan
+Kjaer,AC Milan
+Tomori,AC Milan
+Maignan,AC Milan
+Brahim,AC Milan
+De Ketelaere,AC Milan
+Thiaw,AC Milan
+Origi,AC Milan
+Saelemaekers,AC Milan
+Krunic,AC Milan
+Messias,AC Milan
+Lenglet,Spurs
+Richalison,Spurs
+Romero,Spurs
+Emerson Royal,Spurs
+Ben Davis,Spurs
+Kulusevski,Spurs
+Oliver Skipp,Spurs
+F. Foster,Spurs
+Kane,Spurs
+Son,Spurs
+Sarr,Spurs
+Perisic,Spurs
+Dier,Spurs
+Hoiberg,Spurs
+Evan Ndicka,Frankfurt
+Kevin Trapp,Frankfurt
+Kolo Muani,Frankfurt
+Lindstrom,Frankfurt
+Knauff,Frankfurt
+Mario Gotze,Frankfurt
+Jakic,Frankfurt
+Tuta,Frankfurt
+Chrisphoter Lenz,Frankfurt
+R. Borre,Frankfurt
+F. Alidou,Frankfurt
+Philipp Max,Frankfurt
+Sow,Frankfurt
+Kamada,Frankfurt
+Buta,Frankfurt
+Zielinski,Napoli
+Di Lorenzo,Napoli
+Min Jae Kim,Napoli
+Anguissa,Napoli
+Kvaratskehlia,Napoli
+Lobotka,Napoli
+Rrahmani,Napoli
+Meret,Napoli
+Mario Rui,Napoli
+Ndombele,Napoli
+Oshimen,Napoli
+Lozano,Napoli
+Politano,Napoli
+Elmas,Napoli
+Jesus,Napoli
+Olivera,Napoli
+Yaremchuk,Brugge
+Noah Lang,Brugge
+Mignolet,Brugge
+Clinton Mata,Brugge
+Sylla,Brugge
+Camal Sowah,Brugge
+Odoi,Brugge
+Vanaken,Brugge
+Onyedika,Brugge
+Casper Nielsen,Brugge
+Jutgla,Brugge
+Hendry,Brugge
+Meijer,Brugge
+Mechele,Brugge
+Buchanan,Brugge
+Grimaldo,Benfica
+Mario,Benfica
+Rafa,Benfica
+Otamendi,Benfica
+Alexander Bah,Benfica
+Florentino,Benfica
+David Neres,Benfica
+Antonio Silva,Benfica
+Arsunes,Benfica
+Vlahodimos,Benfica
+Guedes,Benfica
+Chiquinho,Benfica
+Joao Neves,Benfica
+Gilberto,Benfica
+Calhanoglu,Inter
+Dumfries,Inter
+Onana,Inter
+Barella,Inter
+Acerbi,Inter
+Lukaku,Inter
+Gosens,Inter
+Brozovic,Inter
+Dimarco,Inter
+Bastoni,Inter
+Skriniar,Inter
+Darmian,Inter
+Mkhitaryan,Inter
+Dezeko,Inter
+Martinez,Inter
+Diogo Costa,Porto
+Otavio,Porto
+Pepe,Porto
+Zaido Sanusi,Porto
+Marcano,Porto
+Wendell,Porto
+Evanilson,Porto
+Taremi,Porto
+Grujic,Porto
+Uribe,Porto
+Asensio,Real Madrid
+Mudryk,Chelsea
+Conner Gallagher,Chelsea
+Ngolo Kante,Chelsea
+Sadio Mane,Bayern
+Calabria,AC Milan
+Bennacer,AC Milan
+Rebic,AC Milan
+Raspadori,Napoli
+Musa,Benfica
+Morato,Benfica
+Joaquin Correa,Inter
+Ceballos,Real Madrid

@@ -1,0 +1,119 @@
+name,boost,rating_1,min_1,rating_2,min_2,team
+Vinicious Jr.,1,8.5,90,7.9,90.0,Real Madrid
+Modric,0,7.9,81,7.0,90.0,Real Madrid
+Kroos,1,8.2,84,6.7,74.0,Real Madrid
+Ruidiger,0,6.4,19,6.5,44.0,Real Madrid
+Benzema,1,8.4,87,6.8,71.0,Real Madrid
+Carvajal,2,7.5,90,7.7,81.0,Real Madrid
+Militao,1,7.1,90,7.3,90.0,Real Madrid
+Nacho,0,7.2,63,0.0,9.0,Real Madrid
+Camavinga,3,7.2,71,7.9,90.0,Real Madrid
+Rodrygo,1,7.0,71,9.2,81.0,Real Madrid
+Valverde,2,7.8,90,8.4,90.0,Real Madrid
+Alaba,2,8.0,27,6.6,46.0,Real Madrid
+Courtois,3,7.6,90,8.0,90.0,Real Madrid
+Asensio,1,7.6,19,0.0,9.0,Real Madrid
+Reece James,0,6.4,90,7.4,90.0,Chelsea
+Chillwell,0,7.1,71,0.0,0.0,Chelsea
+Enzo,0,7.4,90,6.8,67.0,Chelsea
+Koulibaly,0,6.5,55,0.0,0.0,Chelsea
+Kovacic,0,6.3,90,7.1,90.0,Chelsea
+Havertz,0,6.0,35,7.2,77.0,Chelsea
+Sterling,-2,6.0,65,6.6,67.0,Chelsea
+Kepa,2,6.7,90,6.3,90.0,Chelsea
+Fofana,-2,5.9,90,6.1,90.0,Chelsea
+Cucurella,-3,6.6,35,6.7,67.0,Chelsea
+Felix,0,6.5,65,6.3,24.0,Chelsea
+Thiago Silva,0,6.5,75,6.6,90.0,Chelsea
+Mason Mount,-1,6.1,15,0.0,0.0,Chelsea
+Mudryk,-1,0.0,0,6.1,23.0,Chelsea
+Conner Gallagher,-1,6.1,15,6.7,67.0,Chelsea
+Ngolo Kante,-1,6.4,75,7.0,90.0,Chelsea
+Haaland,1,8.3,90,7.1,84.0,Man_City
+Ruben Dias,2,7.4,90,7.3,90.0,Man_City
+De Bruyne,1,7.1,68,7.6,88.0,Man_City
+Gundogan,0,7.0,90,7.3,90.0,Man_City
+Rodri,1,8.8,90,7.6,90.0,Man_City
+Akanji,1,7.8,90,6.1,90.0,Man_City
+Bernardo Silva,2,8.9,90,6.6,90.0,Man_City
+Stones,1,7.6,90,6.6,63.0,Man_City
+Ake,1,7.3,90,6.1,66.0,Man_City
+Ederson,5,8.2,90,7.9,90.0,Man_City
+Julian Alvarez,0,6.0,22,6.0,6.0,Man_City
+Kimmich,0,6.5,90,8.1,90.0,Bayern
+De Ligt,-1,5.8,90,6.4,90.0,Bayern
+Upamecano,-2,5.0,90,5.6,90.0,Bayern
+Goretzka,0,5.9,90,6.7,90.0,Bayern
+Choupo-Moting,0,0.0,0,6.8,71.0,Bayern
+Coman,0,6.6,90,7.3,90.0,Bayern
+Musiala,1,6.4,69,7.0,71.0,Bayern
+Thomas Muller,0,6.5,10,6.0,19.0,Bayern
+Serge Gnabry,0,6.0,80,0.0,0.0,Bayern
+Alphonso Davis,0,5.8,80,7.2,27.0,Bayern
+Sommer,6,7.3,90,5.9,90.0,Bayern
+Pavard,-1,6.6,90,6.5,77.0,Bayern
+Sane,1,7.5,90,7.3,63.0,Bayern
+Cancelo,0,6.0,10,7.1,63.0,Bayern
+Sadio Mane,0,6.1,21,6.5,27.0,Bayern
+Leao,2,7.5,90,8.0,84.0,AC Milan
+Theo,0,7.4,90,6.9,90.0,AC Milan
+Giroud,0,5.9,90,7.4,68.0,AC Milan
+Tonali,1,7.9,90,6.4,90.0,AC Milan
+Kjaer,2,7.9,90,6.9,90.0,AC Milan
+Tomori,1,0.0,0,6.6,90.0,AC Milan
+Maignan,5,8.5,90,8.3,90.0,AC Milan
+Brahim,1,7.7,80,6.5,59.0,AC Milan
+Origi,0,0.0,0,6.1,22.0,AC Milan
+Saelemaekers,0,6.8,23,6.0,6.0,AC Milan
+Krunic,1,7.3,90,6.6,90.0,AC Milan
+Messias,0,0.0,0,6.5,31.0,AC Milan
+Calabria,6,8.0,90,7.9,90.0,AC Milan
+Bennacer,2,7.7,67,6.7,90.0,AC Milan
+Rebic,0,6.3,10,0.0,0.0,AC Milan
+Zielinski,0,7.1,81,6.4,74.0,Napoli
+Di Lorenzo,0,7.6,90,7.9,90.0,Napoli
+Min Jae Kim,0,7.3,90,0.0,0.0,Napoli
+Anguissa,-1,5.6,74,0.0,0.0,Napoli
+Kvaratskehlia,1,6.9,81,7.8,90.0,Napoli
+Lobotka,0,7.2,90,7.2,90.0,Napoli
+Rrahmani,0,6.9,90,6.9,74.0,Napoli
+Meret,2,5.8,90,7.5,90.0,Napoli
+Mario Rui,-2,6.8,81,6.1,34.0,Napoli
+Ndombele,-1,6.0,9,7.1,63.0,Napoli
+Oshimen,2,0.0,0,7.8,90.0,Napoli
+Lozano,0,6.5,69,6.9,56.0,Napoli
+Politano,0,6.0,9,6.8,34.0,Napoli
+Elmas,0,0.0,0,6.3,27.0,Napoli
+Jesus,0,0.0,0,7.0,90.0,Napoli
+Olivera,-1,6.0,9,6.8,54.0,Napoli
+Raspadori,0,5.9,21,7.2,26.0,Napoli
+Grimaldo,0,6.5,90,8.2,90.0,Benfica
+Mario,0,7.0,90,7.2,89.0,Benfica
+Rafa,0,6.0,90,7.9,80.0,Benfica
+Otamendi,0,0.0,0,6.8,90.0,Benfica
+Florentino,0,6.1,64,6.4,90.0,Benfica
+David Neres,0,7.0,25,7.6,44.0,Benfica
+Antonio Silva,0,6.9,90,7.0,90.0,Benfica
+Arsunes,0,6.2,90,7.9,90.0,Benfica
+Vlahodimos,-3,5.9,90,4.8,90.0,Benfica
+Guedes,-1,6.9,25,5.8,16.0,Benfica
+Chiquinho,0,7.3,90,6.0,80.0,Benfica
+Joao Neves,0,0.0,0,76.4,10.0,Benfica
+Gilberto,-1,7.4,90,6.5,46.0,Benfica
+Musa,1,0.0,0,7.0,10.0,Benfica
+Morato,0,6.8,90,0.0,0.0,Benfica
+Calhanoglu,0,0.0,0,6.5,76.0,Inter
+Dumfries,0,7.4,86,6.5,90.0,Inter
+Onana,0,8.2,90,5.2,90.0,Inter
+Barella,3,8.2,90,7.9,76.0,Inter
+Acerbi,1,7.5,90,6.7,90.0,Inter
+Lukaku,0,7.4,63,5.9,14.0,Inter
+Gosens,-1,6.8,27,6.0,10.0,Inter
+Brozovic,2,7.5,90,6.7,90.0,Inter
+Dimarco,3,7.2,63,8.6,80.0,Inter
+Bastoni,2,6.2,90,7.0,80.0,Inter
+Darmian,2,8.1,90,6.3,90.0,Inter
+Mkhitaryan,2,8.0,90,7.5,90.0,Inter
+Dezeko,0,6.5,63,7.1,76.0,Inter
+Martinez,2,7.0,63,8.5,76.0,Inter
+Joaquin Correa,0,6.3,27,7.2,14.0,Inter

@@ -1,0 +1,58 @@
+name,boost,rating_1,min_1,rating_2,min_2,team
+Vinicious Jr.,0,8.1,90,5.6,90.0,Real Madrid
+Modric,0,6.8,87,6.4,63.0,Real Madrid
+Kroos,0,7.4,84,6.8,70.0,Real Madrid
+Ruidiger,-1,6.3,90,6.3,27.0,Real Madrid
+Benzema,-1,6.8,90,6.0,90.0,Real Madrid
+Carvajal,-1,6.5,90,6.0,80.0,Real Madrid
+Militao,-2,0.0,0,5.5,90.0,Real Madrid
+Nacho,0,6.0,3,8.0,90.0,Real Madrid
+Camavinga,-1,8.2,90,5.3,79.0,Real Madrid
+Rodrygo,0,6.9,81,6.2,80.0,Real Madrid
+Valverde,0,6.9,90,6.1,90.0,Real Madrid
+Alaba,-3,6.1,90,4.5,90.0,Real Madrid
+Courtois,0,7.6,90,5.3,90.0,Real Madrid
+Ceballos,-1,0.0,0,6.1,10.0,Real Madrid
+Asensio,0,0.0,0,6.2,20.0,Real Madrid
+Haaland,0,6.8,90,7.4,89.0,Man_City
+Ruben Dias,2,7.3,90,7.2,90.0,Man_City
+De Bruyne,3,7.5,90,8.5,84.0,Man_City
+Gundogan,2,7.4,90,7.8,79.0,Man_City
+Rodri,2,7.4,90,8.4,90.0,Man_City
+Akanji,2,6.9,90,8.0,90.0,Man_City
+Bernardo Silva,2,6.9,90,9.0,90.0,Man_City
+Stones,0,6.5,90,7.0,90.0,Man_City
+Ederson,3,7.4,90,8.5,90.0,Man_City
+Julian Alvarez,0,0.0,0,6.0,1.0,Man_City
+Phil Foden,1,0.0,0,6.0,6.0,Man_City
+Kyle Walker,3,7.6,90,7.8,90.0,Man_City
+Leao,0,0.0,0,8.0,84.0,AC Milan
+Theo,0,6.5,90,6.9,90.0,AC Milan
+Giroud,0,5.9,90,7.4,68.0,AC Milan
+Tonali,0,6.7,90,6.4,90.0,AC Milan
+Kjaer,-1,6.0,59,6.9,90.0,AC Milan
+Tomori,-1,6.2,90,6.6,90.0,AC Milan
+Maignan,1,6.0,90,8.3,90.0,AC Milan
+Brahim,-1,6.7,82,6.5,59.0,AC Milan
+Origi,0,6.4,31,6.1,22.0,AC Milan
+Saelemaekers,1,7.0,59,6.0,6.0,AC Milan
+Krunic,0,5.9,90,6.6,90.0,AC Milan
+Messias,-1,6.3,72,6.5,31.0,AC Milan
+Calabria,1,6.3,82,7.9,90.0,AC Milan
+Bennacer,0,5.9,18,6.7,90.0,AC Milan
+Thiaw,0,6.8,31,7.4,90.0,AC Milan
+Calhanoglu,2,8.0,78,8.2,90.0,Inter
+Dumfries,0,6.8,90,7.0,90.0,Inter
+Onana,0,7.0,90,6.9,90.0,Inter
+Barella,0,7.4,90,6.6,84.0,Inter
+Acerbi,1,7.3,90,7.3,90.0,Inter
+Lukaku,2,6.7,20,7.9,24.0,Inter
+Gosens,0,0.0,0,6.7,24.0,Inter
+Brozovic,0,6.5,28,6.5,46.0,Inter
+Dimarco,1,7.6,70,7.1,66.0,Inter
+Bastoni,1,7.4,90,7.2,90.0,Inter
+Darmian,1,6.8,90,7.2,90.0,Inter
+Mkhitaryan,1,8.2,62,6.8,44.0,Inter
+Dezeko,1,8.1,70,6.7,66.0,Inter
+Martinez,3,7.9,78,8.2,84.0,Inter
+Joaquin Correa,0,6.2,12,6.0,6.0,Inter
