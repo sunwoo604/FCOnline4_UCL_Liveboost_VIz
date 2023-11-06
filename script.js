@@ -24,14 +24,14 @@ function def(){
         }
     }
     Promise.all([
-        d3.csv("res16.csv",resConverter),
-        d3.csv("boost16.csv",boostConverter),
-        d3.csv("res8.csv",resConverter),
-        d3.csv("boost8.csv",boostConverter),
-        d3.csv("res4.csv",resConverter),
-        d3.csv("boost4.csv",boostConverter),
-        d3.csv('player_team.csv'),
-        d3.csv('team_count.csv')
+        d3.csv("data/res16.csv",resConverter),
+        d3.csv("data/boost16.csv",boostConverter),
+        d3.csv("data/res8.csv",resConverter),
+        d3.csv("data/boost8.csv",boostConverter),
+        d3.csv("data/res4.csv",resConverter),
+        d3.csv("data/boost4.csv",boostConverter),
+        d3.csv('data/player_team.csv'),
+        d3.csv('data/team_count.csv')
     ]).then(function(files) {
         bracket(files)
         map(files)
@@ -491,7 +491,7 @@ function map(files){
     'Porto':'FC Porto'}
     const player_team = files[6]
     const team_count = files[7]
-    const statesmap = d3.json("europe.geojson")
+    const statesmap = d3.json("data/europe.geojson")
     const svgWidth = 1300
     const svgHeight = 1000;
     const teamCnt = {}
