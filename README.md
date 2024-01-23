@@ -4,7 +4,7 @@ FCOnline is a online soccer game based on the real soccer players. There are cer
 
 ## Overall Structure
 
-<img width="1164" alt="Screen Shot 2023-01-18 at 10 32 21 PM" src="https://github.com/sunwoo604/FCOnline4_UCL_Liveboost_VIz/blob/main/sample_img/interactive_window.png">
+<img width="1164" alt="Screen Shot 2023-01-18 at 10 32 21 PM" src="https://github.com/sunwoo604/FCOnline4_UCL_Liveboost_VIz/blob/main/sample_img/overall.png">
 
 ## Interactive Window
 <img width="1164" alt="Screen Shot 2023-01-18 at 10 32 21 PM" src="https://github.com/sunwoo604/FCOnline4_UCL_Liveboost_VIz/blob/main/sample_img/interactive_window.png">
