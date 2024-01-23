@@ -2,7 +2,12 @@
 
 FCOnline is a online soccer game based on the real soccer players. There are certain versions of players in the game to reflect their actual performance in the Champions League and this always brought people's attention. In order to have better understanding the relationship between players' different stats(playing time, goals, assist, etc) and their boosts, I have made this visualization.
 
-<img width="1164" alt="Screen Shot 2023-01-18 at 10 32 21 PM" src="">
+## Overall Structure
+
+<img width="1164" alt="Screen Shot 2023-01-18 at 10 32 21 PM" src="https://github.com/sunwoo604/FCOnline4_UCL_Liveboost_VIz/blob/main/sample_img/interactive_window.png">
+
+## Interactive Window
+<img width="1164" alt="Screen Shot 2023-01-18 at 10 32 21 PM" src="https://github.com/sunwoo604/FCOnline4_UCL_Liveboost_VIz/blob/main/sample_img/interactive_window.png">
 
 ## Data Source
 Most of the data is web scraped from UCL page and official FCOnline4 website. Data Collecting process is in the notebooks folder.
