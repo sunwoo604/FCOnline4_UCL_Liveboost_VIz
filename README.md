@@ -9,6 +9,9 @@ FCOnline is an online soccer game based on real soccer players. There are certai
 ## Interactive Window
 <img width="1164" alt="Screen Shot 2023-01-18 at 10 32 21 PM" src="https://github.com/sunwoo604/FCOnline4_UCL_Liveboost_VIz/blob/main/sample_img/interactive_window.png">
 
+## Geospatial Visualization for Teams
+<img width="1164" alt="Screen Shot 2023-01-18 at 10 32 21 PM" src="https://github.com/sunwoo604/FCOnline4_UCL_Liveboost_VIz/blob/main/sample_img/gis.png">
+
 ## Data Source
 Most of the data is web scraped from the UCL page and the official FCOnline4 website. Data Collecting process is in the notebooks folder.
 
